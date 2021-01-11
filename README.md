@@ -8,4 +8,4 @@ $ npm run start:dev
 
 
 
-Open [http://localhost:5000/cities?search=Paris](http://localhost:5000) to get a JSON response.
+Open [http://localhost:5000/cities?search=Paris](http://localhost:5000/cities?search=Paris) to get a JSON response.
